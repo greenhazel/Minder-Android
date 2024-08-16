@@ -45,14 +45,15 @@ If you have any questions or suggestions, or you just want to contact me, you ca
 Here’s a glance at what do I plan to develop:
 
 Implement mind tracking features.
+
 Integrate AES encryption for data security.
+
 Support for self-hosting and custom backend options.
+
 Supabase integration.
+
 Cross-platform compatibility (iOS, Web, etc.).
 
-📄 License
+# 📄 License
 
 Minder is licensed under the GNU GPL License. See the LICENSE file for more details.
-🙏 Acknowledgements
-
-A big thank you to the open-source community for the inspiration and resources.
